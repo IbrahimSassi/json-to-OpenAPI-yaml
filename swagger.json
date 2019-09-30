@@ -1,0 +1,30 @@
+{
+    "user": {
+        "_ref": "User",
+        "firstName": "Ibrahim",
+        "lastName": "Sassi",
+        "age": 20,
+        "died": false,
+        "hobbies": ["shows", "code"]
+    },
+    "job": {
+        "title": "Engineer",
+        "description": "Hello world",
+        "easy": true,
+        "tasks": [
+            {
+                "taskTitle": "fix bugs",
+                "time": 5
+            }
+        ]
+    },
+    "candidats": [
+        {
+            "firstName": "Ibrahim",
+            "lastName": "Sassi",
+            "age": 20,
+            "died": false,
+            "hobbies": ["shows", "code"]
+        }
+    ]
+}
